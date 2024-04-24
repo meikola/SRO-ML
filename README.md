@@ -60,7 +60,12 @@ Epoch 10/10 - val_accuracy: 0.8249
 ![image](https://github.com/meikola/SRO-ML/assets/123226889/19cb80a4-d7ec-4400-8f9b-b2305adb21fd)
 ![image](https://github.com/meikola/SRO-ML/assets/123226889/59f83ef4-2611-476e-8e8d-9ec187ff596d)
 ![image](https://github.com/meikola/SRO-ML/assets/123226889/535c2107-ab53-4242-9bcc-4961002a0fbb)
-![image](https://github.com/meikola/SRO-ML/assets/123226889/53c83225-28b6-445b-80e3-d57d1c186934)
+![image](https://github.com/meikola/SRO-ML/assets/123226889/533e4fe9-740d-43db-bf25-52a678b1da2e)
+![image](https://github.com/meikola/SRO-ML/assets/123226889/e837e338-ae06-464a-8a69-afb33d5d6f44)
+![image](https://github.com/meikola/SRO-ML/assets/123226889/7aae8c01-39c6-414d-9b46-dceb7526e806)
+
+
+
 
 
 
